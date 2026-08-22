@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haichuan Lin"
   avatar           : "images/profile.png"
-  bio              : "Ph.D. Candidate | Medical Robotics"
+  bio              : "Ph.D. Candidate"
   location         : "Beijing, China"
   employer         : "Institute of Automation, Chinese Academy of Sciences"
   pubmed           : 
