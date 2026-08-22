@@ -65,6 +65,9 @@ I am a Ph.D. candidate at the [Institute of Automation, Chinese Academy of Scien
 
 <span class='anchor' id='honors'></span>
 # 🎖 Honors and Awards
+- *2024.6* Merit Student, University of Chinese Academy of Sciences
+- *2023.6* Outstanding Graduate, Huazhong University of Science and Technology.
+- *2022.10* Merit Student, Huazhong University of Science and Technology.
 - *2021.10* National Scholarship, Ministry of Education of China.
 - *2020.10* National Scholarship, Ministry of Education of China.
 
