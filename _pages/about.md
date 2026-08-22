@@ -33,13 +33,13 @@ I am a Ph.D. candidate at the [Institute of Automation, Chinese Academy of Scien
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Our paper **"Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention"** has been accepted for publication in  *IEEE Transactions on Biomedical Engineering (TBME)*!
+- *2026.08*: &nbsp;🎉🎉 Our paper **"Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention"** has been accepted for publication in  **IEEE Transactions on Biomedical Engineering (TBME)**!
 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 1. **Haichuan Lin**, Yiping Xie, Ziqi Wang, Yuen Chiu Ng, Qin-Yi Zhang, Weizhao Wang, Longyue Tan, Dong Chen, Pengcheng Zhang, Chen Chen, Xiao-Hu Zhou, Zeng-Guang Hou, Fei Pan, Shengtao Lin, Kent Chak-Yu So, and Shuangyi Wang,  
-   “**Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention**,”  
+   “[**Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention**](https://ieeexplore.ieee.org/document/11660356),”  
    **IEEE Transactions on Biomedical Engineering**, 2026.
 
 1. Yuen Chiu Ng, Yiping Xie, **Haichuan Lin**, Longyue Tan, Xilong Hou, Chen Chen, Zeng-Guang Hou, and Shuangyi Wang,  
