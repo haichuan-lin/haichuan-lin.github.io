@@ -21,21 +21,23 @@ redirect_from:
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-
+<span class='anchor' id='about-me'></span>
 I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Shuangyi Wang](https://people.ucas.ac.cn/~shuangyiwang?language=en) and [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang?language=en). My research focuses on medical robotics, with particular interests in robot-assisted transcatheter cardiac interventions, image-guided interventions, patient-specific planning, and intelligent robotic control.
 
+
+<span class='anchor' id='education'></span>
 # 📖 Education 
-- *Sep. 2023 - Present*, Ph.D. Candidate, Chinese Academy of Sciences, Beijing, China. Research focus: Medical robotics and intelligent control for transcatheter valve interventions.
+- *Sep. 2023 - Present*, Ph.D. Candidate, Institute of Automation, Chinese Academy of Sciences, Beijing, China. Research focus: Medical robotics and intelligent control for transcatheter valve interventions.
 - *Sep. 2019 - Jun. 2023*, B.Eng. with Honors, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China. GPA: 3.98/4.00, Rank: 5/176.
 
 
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 Our paper **"Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention"** has been accepted for publication in  *IEEE Transactions on Biomedical Engineering (TBME)*!
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications
-
 1. **Haichuan Lin**, Yiping Xie, Ziqi Wang, Yuen Chiu Ng, Qin-Yi Zhang, Weizhao Wang, Longyue Tan, Dong Chen, Pengcheng Zhang, Chen Chen, Xiao-Hu Zhou, Zeng-Guang Hou, Fei Pan, Shengtao Lin, Kent Chak-Yu So, and Shuangyi Wang,  
    “**Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention**,”  
    **IEEE Transactions on Biomedical Engineering**, 2026.
@@ -60,10 +62,12 @@ I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Scienc
    “**A Deep Reinforcement Learning Approach for Pre-Planning Problems in Robotic Intra-Operative Ultrasound: A Virtual Environment-Based Analysis**,”  
    in **2023 IEEE 3rd International Conference on Digital Twins and Parallel Intelligence (DTPI)**, pp. 1–4, 2023.
 
+<span class='anchor' id='honors'></span>
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship, Ministry of Education of China.
 - *2020.10* National Scholarship, Ministry of Education of China.
 
+<span class='anchor' id='academic-service'></span>
 # 💼 Academic Service & Teaching
 
 ## Academic Service
