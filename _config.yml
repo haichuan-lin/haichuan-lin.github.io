@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haichuan Lin"
-description              : "Haichuan Lin - Medical Robotics and Robotic Cardiac Intervention"
+description              : "Medical Robotics and Robotic Cardiac Intervention"
 repository               : "haichuan-lin/haichuan-lin.github.io"
 
 google_scholar_stats_use_cdn : true
@@ -26,7 +26,7 @@ author:
   avatar           : "images/profile.png"
   bio              : "Ph.D. Candidate"
   location         : "Beijing, China"
-  employer         : "Institute of Automation, Chinese Academy of Sciences"
+  employer         : "CASIA"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hDRSVkgAAAAJ&hl=zh-CN"
   email            : "linhaichuan2023@ia.ac.cn"
