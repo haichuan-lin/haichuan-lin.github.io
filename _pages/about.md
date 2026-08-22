@@ -43,23 +43,23 @@ I am a Ph.D. candidate at the [Institute of Automation, Chinese Academy of Scien
    **IEEE Transactions on Biomedical Engineering**, 2026.
 
 1. Yuen Chiu Ng, Yiping Xie, **Haichuan Lin**, Longyue Tan, Xilong Hou, Chen Chen, Zeng-Guang Hou, and Shuangyi Wang,  
-   “**Modular Robotic System With AI-Enhanced Human-Robot Collaboration for Disposable Ureteroscopy in Kidney Stone Surgery**,”  
+   “[**Modular Robotic System With AI-Enhanced Human-Robot Collaboration for Disposable Ureteroscopy in Kidney Stone Surgery**](https://ieeexplore.ieee.org/document/11352520),”  
    **IEEE Transactions on Medical Robotics and Bionics**, 2026.
 
 1. Qin-Yi Zhang, Hong Wang, Siyao Liu, **Haichuan Lin**, Linying Cao, Xiao-Hu Zhou, Chen Chen, Shuangyi Wang, and Zeng-Guang Hou,  
-   “**HGATSolver: A Heterogeneous Graph Attention Solver for Fluid–Structure Interaction**,”  
+   “[**HGATSolver: A Heterogeneous Graph Attention Solver for Fluid–Structure Interaction**](https://ojs.aaai.org/index.php/AAAI/article/view/37129),”  
    in **Proceedings of the AAAI Conference on Artificial Intelligence**, vol. 40, no. 2, pp. 1534–1542, 2026.
 
 1. **Haichuan Lin**, Yiping Xie, Ziqi Wang, Dong Chen, Longyue Tan, Weizhao Wang, Yuen Chiu Ng, Xilong Hou, Chen Chen, Xiao-Hu Zhou, Zeng-Guang Hou, and Shuangyi Wang,  
-   “**Model-Free Catheter Delivery Strategy for Robotic Transcatheter Tricuspid Valve Replacement**,”  
+   “[**Model-Free Catheter Delivery Strategy for Robotic Transcatheter Tricuspid Valve Replacement**](https://ieeexplore.ieee.org/document/11247226),”  
    in **2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, pp. 9313–9319, 2025.
 
 1. Yuen Chiu Ng, **Haichuan Lin**, Yiping Xie, Dong Chen, Xilong Hou, Chen Chen, Zeng-Guang Hou, and Shuangyi Wang,  
-   “**Adaptive Neuro-Fuzzy Visual Servoing for Automated Centering of Kidney Stones in Robot-Assisted Ureteroscope**,”  
+   “[**Adaptive Neuro-Fuzzy Visual Servoing for Automated Centering of Kidney Stones in Robot-Assisted Ureteroscope**](https://ieeexplore.ieee.org/document/11278859),”  
    in **2025 21st IEEE International Conference on Mechatronic and Embedded Systems and Applications (MESA)**, pp. 65–70, 2025.
 
 1. **Haichuan Lin**, Yiping Xie, Ziqi Wang, and Shuangyi Wang,  
-   “**A Deep Reinforcement Learning Approach for Pre-Planning Problems in Robotic Intra-Operative Ultrasound: A Virtual Environment-Based Analysis**,”  
+   “[**A Deep Reinforcement Learning Approach for Pre-Planning Problems in Robotic Intra-Operative Ultrasound: A Virtual Environment-Based Analysis**](https://ieeexplore.ieee.org/document/10365457),”  
    in **2023 IEEE 3rd International Conference on Digital Twins and Parallel Intelligence (DTPI)**, pp. 1–4, 2023.
 
 <span class='anchor' id='honors'></span>
