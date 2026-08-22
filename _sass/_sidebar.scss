@@ -276,3 +276,22 @@
     display: none;
   }
 }
+
+.author__employer {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  max-width: 100%;
+  white-space: normal !important;
+
+  i {
+    flex: 0 0 auto;
+    margin-top: 0.25em;
+  }
+
+  span {
+    flex: 1;
+    min-width: 0;
+    white-space: normal;
+  }
+}
