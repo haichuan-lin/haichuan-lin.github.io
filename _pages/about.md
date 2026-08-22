@@ -22,16 +22,16 @@ redirect_from:
 -->
 
 
-I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Shuangyi Wang](https://people.ucas.ac.cn/~shuangyiwang?language=en) and [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang?language=en). My research focuses on medical robotics, with particular interests in robot-assisted transcatheter cardiac interventions, image-guided intervention, patient-specific planning, and intelligent robotic control.
+I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Shuangyi Wang](https://people.ucas.ac.cn/~shuangyiwang?language=en) and [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang?language=en). My research focuses on medical robotics, with particular interests in robot-assisted transcatheter cardiac interventions, image-guided interventions, patient-specific planning, and intelligent robotic control.
 
 # 📖 Education 
 - *Sep. 2023 - Present*, Ph.D. Candidate, Chinese Academy of Sciences, Beijing, China. Research focus: Medical robotics and intelligent control for transcatheter valve interventions.
-- *Sep. 2019 - Jun. 2023*, B.Eng. (Honours), School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China. GPA: 3.98/4.00, Rank: 5/176.
+- *Sep. 2019 - Jun. 2023*, B.Eng. with Honors, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China. GPA: 3.98/4.00, Rank: 5/176.
 
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Our paper **"Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention"** has been accepted by *IEEE Transactions on Biomedical Engineering (TBME)*!
+- *2026.08*: &nbsp;🎉🎉 Our paper **"Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention"** has been accepted for publication in  *IEEE Transactions on Biomedical Engineering (TBME)*!
 
 
 # 📝 Publications
