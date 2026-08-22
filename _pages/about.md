@@ -22,7 +22,7 @@ redirect_from:
 -->
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Shuangyi Wang](https://people.ucas.ac.cn/~shuangyiwang?language=en) and [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang?language=en). My research focuses on medical robotics, with particular interests in robot-assisted transcatheter cardiac interventions, image-guided interventions, patient-specific planning, and intelligent robotic control.
+I am a Ph.D. candidate at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), supervised by [Prof. Shuangyi Wang](https://people.ucas.ac.cn/~shuangyiwang?language=en) and [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang?language=en). My research focuses on medical robotics, with particular interests in robot-assisted transcatheter cardiac interventions, image-guided interventions, patient-specific planning, and intelligent robotic control.
 
 
 <span class='anchor' id='education'></span>
