@@ -37,20 +37,9 @@ I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Scienc
 
 # 📝 Publications 
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
-[Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention](YOUR_PAPER_LINK)
-
-**Haichuan Lin**, et al.
-
+[1] **Haichuan Lin**, Yiping Xie, Ziqi Wang, Yuen Chiu Ng, Qin-Yi Zhang, Weizhao Wang, Longyue Tan, Dong Chen, Pengcheng Zhang, Chen Chen, Xiao-Hu Zhou, Zeng-Guang Hou, Fei Pan, Shengtao Lin, Kent Chak-Yu So, and Shuangyi Wang,  
+“Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention,”  
 *IEEE Transactions on Biomedical Engineering*, 2026.
-
-Patient-specific CT-based planning and autonomous robotic control for transcatheter tricuspid valve intervention.
-
-</div>
-</div>
-
 
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship, Ministry of Education of China.
