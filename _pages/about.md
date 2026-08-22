@@ -7,17 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!--
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+-->
 
 <span class='anchor' id='about-me'></span>
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-->
 
 
 I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by [Prof. Shuangyi Wang](https://people.ucas.ac.cn/~shuangyiwang?language=en) and [Prof. Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang?language=en). My research focuses on medical robotics, with particular interests in robot-assisted transcatheter cardiac interventions, image-guided intervention, patient-specific planning, and intelligent robotic control.
@@ -49,9 +51,6 @@ Patient-specific CT-based planning and autonomous robotic control for transcathe
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship, Ministry of Education of China.
