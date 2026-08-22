@@ -69,7 +69,7 @@ I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Scienc
 
 
 <span class='anchor' id='academic-service'></span>
-# 💼 Academic Service & Teaching
+# 💼 Academic Service
 - *2026*, Reviewer, IEEE International Conference on Robotics and Automation (ICRA 2026).
 - *2024 - Present*, Teaching Assistant for [*Robotics (Seminar Course)*](https://jwba.ucas.ac.cn/sc/course/courseplan/242140), School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS).
 
