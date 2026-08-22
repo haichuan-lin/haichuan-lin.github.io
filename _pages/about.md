@@ -27,13 +27,14 @@ I am a Ph.D. candidate at the [Institute of Automation, Chinese Academy of Scien
 
 <span class='anchor' id='education'></span>
 # 📖 Education 
-- *Sep. 2023 - Present*, Ph.D. Candidate, Institute of Automation, Chinese Academy of Sciences, Beijing, China. Research focus: Medical robotics and intelligent control for transcatheter valve interventions.
-- *Sep. 2019 - Jun. 2023*, B.Eng. with Honors, School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China. GPA: 3.98/4.00, Rank: 5/176.
+- *Sep. 2023 - Present*, Ph.D. Candidate, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/), Beijing, China. Research focus: Medical robotics and intelligent control for transcatheter valve interventions.
+- *Sep. 2019 - Jun. 2023*, B.Eng. with Honors, [School of Electronic Information and Communications](http://english.eic.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), Wuhan, China. GPA: 3.98/4.00, Rank: 5/176.
 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 Our paper **"Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention"** has been accepted for publication in  **IEEE Transactions on Biomedical Engineering (TBME)**!
+- *2026.04*: &nbsp;🎉 Our robotic system was successfully used in the **world's first robotic-assisted transcatheter tricuspid valve replacement in a human** at Prince of Wales Hospital, Hong Kong. [[News](https://www.chinadaily.com.cn/a/202604/02/WS69ce5fb7a310d6866eb41797.html)]
 
 
 <span class='anchor' id='publications'></span>
