@@ -37,8 +37,8 @@ I am a Ph.D. candidate at the Institute of Automation, Chinese Academy of Scienc
 # 📝 Publications
 
 1. **Haichuan Lin**, Yiping Xie, Ziqi Wang, Yuen Chiu Ng, Qin-Yi Zhang, Weizhao Wang, Longyue Tan, Dong Chen, Pengcheng Zhang, Chen Chen, Xiao-Hu Zhou, Zeng-Guang Hou, Fei Pan, Shengtao Lin, Kent Chak-Yu So, and Shuangyi Wang,  
-   “Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention,”  
-   *IEEE Transactions on Biomedical Engineering*, 2026.
+   “**Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention**,”  
+   **IEEE Transactions on Biomedical Engineering**, 2026.
 
 1. Yuen Chiu Ng, Yiping Xie, **Haichuan Lin**, Longyue Tan, Xilong Hou, Chen Chen, Zeng-Guang Hou, and Shuangyi Wang,  
    “Modular Robotic System With AI-Enhanced Human-Robot Collaboration for Disposable Ureteroscopy in Kidney Stone Surgery,”  
